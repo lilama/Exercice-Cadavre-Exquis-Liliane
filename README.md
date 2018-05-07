@@ -7,3 +7,5 @@
 
 
 <3
+
+** Ou alors s'enfermer dans une cave pour coder **

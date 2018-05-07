@@ -7,3 +7,5 @@
 
 
 <3
+
+**ou alors s'enfermer dans une cave pour coder git...**

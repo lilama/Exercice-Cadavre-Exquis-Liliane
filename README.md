@@ -4,8 +4,7 @@
 * flaner dans les parcs
 * rester en terrasse d'un café
 * trouver une piscine  
+* boire un verre
+* bronzer
+* se balader
 
-
-<3
-
-**ou alors s'enfermer dans une cave pour coder git...**
